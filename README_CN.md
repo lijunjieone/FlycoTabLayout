@@ -27,7 +27,7 @@
         /** 关联数据支持同时切换fragments */
         public void setTabData(ArrayList<CustomTabEntity> tabEntitys, FragmentManager fm, int containerViewId, ArrayList<Fragment> fragments)
     ```
-
+* SlidingTabLayoutV2 增加了一个图片指示器
 * SegmentTabLayout
 
 ## Demo
